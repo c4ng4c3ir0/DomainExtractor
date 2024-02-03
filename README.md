@@ -17,4 +17,4 @@ Ensure you have Python installed on your system. This script was developed with 
 2. Run the script from the command line or terminal, passing the path to your subdomains file as an argument:
 
 ```bash
-python extract_domains_v2.py -file path_to_your_subdomains_file.txt
+python DomainExtractor.py -file list.txt
